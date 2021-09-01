@@ -1,6 +1,6 @@
 # Hi, i'm Speedy11CZ 🧪
 
-#### I'm 16 years old student from Czech Republic and developer for largest Czech Minecraft server Survival-Games.cz
+#### I'm 16 years old student from Czech Republic and Spigot plugin developer
 
 - 🔧 I'm daily working in `Java`, creating plugins using [BukkitAPI](https://www.spigotmc.org/), discord bots using [JDA](https://github.com/DV8FromTheWorld/JDA) and website applications using [Spring Framework](https://spring.io/)
 - ❤ I love `Spring Framework`, which I use for many of my projects
@@ -20,8 +20,8 @@
 ## Previous employments
 - ⚙ `[2018 - 2020]` Developer for Czech Minecraft server **[Craftmania.cz](https://craftmania.cz/)**
 - ⚙ `[2020]` Developer for Czech Minecraft server **[Trenend.eu](https://trenend.eu/)**
-- ⚙ `[2020 - now]` Developer for Czech Minecraft server **[Survival-Games.cz](https://survival-games.cz/)**
-- 🎮 `[2020 - now]` CEO of little game development studio **BambooARTS**
+- ⚙ `[2020 - 2021]` Developer for Czech Minecraft server **[Survival-Games.cz](https://survival-games.cz/)**
+- 🎮 `[2020 - 2020]` CEO of little game development studio **BambooARTS**
 
 ## Favourite IDE
 - ❤ `Java` - [IntellIJ Idea](https://www.jetbrains.com/idea/)
