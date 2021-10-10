@@ -1,6 +1,6 @@
 # Hi, i'm Speedy11CZ 🧪
 
-#### I'm 16 years old student from Czech Republic and Spigot plugin developer
+#### I'm 17 years old student from Czech Republic and Spigot plugin developer
 
 - 🔧 I'm daily working in `Java`, creating plugins using [BukkitAPI](https://www.spigotmc.org/), discord bots using [JDA](https://github.com/DV8FromTheWorld/JDA) and website applications using [Spring Framework](https://spring.io/)
 - ❤ I love `Spring Framework`, which I use for many of my projects
