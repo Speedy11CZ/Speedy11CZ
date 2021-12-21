@@ -5,6 +5,7 @@
 - 🔧 I'm daily working in `Java`, creating plugins using [BukkitAPI](https://www.spigotmc.org/), discord bots using [JDA](https://github.com/DV8FromTheWorld/JDA) and website applications using [Spring Framework](https://spring.io/)
 - ❤ I love `Spring Framework`, which I use for many of my projects
 - 📚 I learned most things myself
+- 💻 I've been working on cybersecurity lately
 
 ## My projects
 ### Completed / Discontinued
