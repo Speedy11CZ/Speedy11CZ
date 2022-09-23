@@ -1,39 +1,39 @@
-# Hi, i'm Speedy11CZ 🧪
+<div align="center">
+  <h1>Hi, i'm Speedy11CZ 🧪</h1>
+  <a href="https://www.speedy11.cz/">
+    <img src="https://img.shields.io/badge/Blog-15171a?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/michal-spi%C5%A1ak-876361211/">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.twitter.com/speedy11cz/">
+    <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.instagram.com/jsem_mike/">
+    <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 
-#### I'm 17 years old student from Czech Republic and Spigot plugin developer
+#### Experimenting and learning new things is my life. I'm Mike, a 17 year old student and developer from the Czech Republic.
 
-- 🔧 I'm daily working in `Java`, creating plugins using [BukkitAPI](https://www.spigotmc.org/), discord bots using [JDA](https://github.com/DV8FromTheWorld/JDA) and website applications using [Spring Framework](https://spring.io/)
-- ❤ I love `Spring Framework`, which I use for many of my projects
-- 📚 I learned most things myself
-- 💻 I've been working on cybersecurity lately
+## ⭐ About me
+- 🚀 I use **[Java](https://www.java.com/en/)** and **[Kotlin](https://kotlinlang.org/)** for most of my projects, but I also like **[Go](https://go.dev/)**.
+- 📚 I gain my experience by **self-learning** and **experimenting**
+- ❤️ Fan of **open-source projects**, so I release most of my projects publicly and contribute to other open-source projects
+- 🧪 I spend my free time on **cybersecurity CTFs**
+- 🐈 Lover and owner of three cats
 
-## My projects
-### Completed
-- 📜 Website **Clankipedia**, running on `wiki.js`. PlayStation's community-driven reverse engineering wiki. Tutorials on topics such as modding, networking and tools. All in one place.
-- 🤖 Discord bot **ClankipediaBot**, created in `Kotlin`. 
+## ⭐ My projects
+### 📦 [MCRPX](https://github.com/Speedy11CZ/mcrpx/)
+- **A program for unpacking and extracting resource packs from Minecraft**
+- Written in Java
+### 🦠 [KoroInfo](https://github.com/Speedy11CZ/koroinfo)
+- **Web application for informing citizens about the coronavirus situation in the Czech Republic**
+- Written in **Java**, using **Spring Framework**
+- Archived due to the creation of an official government website
 
-### Discontinued
-- 📄 Website **Koro-info**, created in `Java` using [Spring Framework](https://spring.io/), `Html`, `Css` and `JavaScript` using [Bootstrap](https://getbootstrap.com/), used for informating Czech Republic peoples about coronavirus COVID19 (Discontinued due to official government website)
-
-### Unfinished
-- 🤖 Discord bot **Puffin**, created in `Java` using [JDA](https://github.com/DV8FromTheWorld/JDA) and [Spring Framework](https://spring.io/)
-- 📑 Api client **Bakaláři4J**, created in `Java`, used for easy communication with school system [Bakaláři](https://www.bakalari.cz/)
-- 📄 My own personal website **Nejrychlejší**, created in `Java` using [Spring Framework](https://spring.io/), `Html`, `Css` and `Js` using [Bootstrap](https://getbootstrap.com/)
-
-## Previous employments
-- ⚙ `[2018 - 2020]` Developer for Czech Minecraft server **[Craftmania.cz](https://craftmania.cz/)**
-- ⚙ `[2020]` Developer for Czech Minecraft server **[Trenend.eu](https://trenend.eu/)**
-- ⚙ `[2020 - 2021]` Developer for Czech Minecraft server **[Survival-Games.cz](https://survival-games.cz/)**
-
-## Favourite IDE
-- ❤ `Java`, `Kotlin` - [IntellIJ Idea](https://www.jetbrains.com/idea/)
-- 🧡 `Html`, `Css`, `JavaScript` - [WebStorm](https://www.jetbrains.com/webstorm/)
-- 💛 `PHP` - [PhpStorm](https://www.jetbrains.com/phpstorm/)
-- 💚 `C#` - [Rider](https://www.jetbrains.com/rider/)
-- 💙`C`, `C++` - [CLion](https://www.jetbrains.com/clion/)
-
-## Where you can find me
-- 💬 `Discord` - **Speedy11CZ#0001**
-- 📷 `Instagram` - **[jsem_mike](https://instagram.com/jsem_mike)** or **[speedy11cz](https://instagram.com/speedy11cz)**
-- 🎥 `Twitch` - **[Speedy11CZ](https://twitch.tv/speedy11cz)**
-- 📺 `Youtube` - **[Speedy11CZ](https://www.youtube.com/speedy11cz)**
+## ⭐ Employments
+- `[2018 - 2020]` Developer for Czech Minecraft server **[Craftmania.cz](https://craftmania.cz/)**
+- `[2020]` Developer for Czech Minecraft server **[Trenend.eu](https://trenend.eu/)**
+- `[2020 - 2021]` Developer for Czech Minecraft server **[Survival-Games.cz](https://survival-games.cz/)**
+- `[2021 - present]` Developer and mentor for organization **[Nvias](https://nvias.org/)**
