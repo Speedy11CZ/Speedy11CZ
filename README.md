@@ -14,7 +14,7 @@
   </a>
 </div>
 
-#### Experimenting and learning new things is my life. I'm Mike, a 17 year old student and developer from the Czech Republic.
+#### Experimenting and learning new things is my life. I'm Mike, a 18 year old student and developer from the Czech Republic.
 
 ## ⭐ About me
 - 🚀 I use **[Java](https://www.java.com/en/)** and **[Kotlin](https://kotlinlang.org/)** for most of my projects, but I also like **[Go](https://go.dev/)**.
