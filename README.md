@@ -37,3 +37,4 @@
 - `[2020]` Developer for Czech Minecraft server **[Trenend.eu](https://trenend.eu/)**
 - `[2020 - 2021]` Developer for Czech Minecraft server **[Survival-Games.cz](https://survival-games.cz/)**
 - `[2021 - present]` Developer and mentor for organization **[Nvias](https://nvias.org/)**
+- `[2022 - present]` Head Developer for Czech Minecraft server **[Rajce.pro](https://rajce.pro/)**
