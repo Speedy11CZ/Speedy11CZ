@@ -17,7 +17,7 @@
 #### Experimenting and learning new things is my life. I'm Mike, a 18 year old student and developer from the Czech Republic.
 
 ## ⭐ About me
-- 🚀 I use **[Java](https://www.java.com/en/)** and **[Kotlin](https://kotlinlang.org/)** for most of my projects, but I also like **[Go](https://go.dev/)**.
+- 🚀 I use **[Java](https://www.java.com/en/)** and **[Go](https://go.dev/)** for most of my projects
 - 📚 I gain my experience by **self-learning** and **experimenting**
 - ❤️ Fan of **open-source projects**, so I release most of my projects publicly and contribute to other open-source projects
 - 🧪 I spend my free time on **cybersecurity CTFs**
@@ -37,4 +37,4 @@
 - `[2020]` Developer for Czech Minecraft server **[Trenend.eu](https://trenend.eu/)**
 - `[2020 - 2021]` Developer for Czech Minecraft server **[Survival-Games.cz](https://survival-games.cz/)**
 - `[2021 - present]` Developer and mentor for organization **[Nvias](https://nvias.org/)**
-- `[2022 - present]` Head Developer for Czech Minecraft server **[Rajce.pro](https://rajce.pro/)**
+- `[2022 - present]` Owner of Czech Minecraft server **[Rajce.pro](https://rajce.pro/)**
