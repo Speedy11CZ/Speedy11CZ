@@ -38,3 +38,6 @@
 - `[2020 - 2021]` Developer for Czech Minecraft server **[Survival-Games.cz](https://survival-games.cz/)**
 - `[2021 - present]` Developer and mentor for organization **[Nvias](https://nvias.org/)**
 - `[2022 - present]` Owner of Czech Minecraft server **[Rajce.pro](https://rajce.pro/)**
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/mxbi/mxbi/main/pattern.png');]{x0000}$}
