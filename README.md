@@ -14,7 +14,7 @@
   </a>
 </div>
 
-#### Experimenting and learning new things is my life. I'm Mike, a 19 year old student and developer from the Czech Republic.
+#### Experimenting and learning new things is my life. I'm Mike, a 20 year old student and developer from the Czech Republic.
 
 ## ⭐ About me
 - 🚀 I use **[Java](https://www.java.com/en/)** and **[Go](https://go.dev/)** for most of my projects
@@ -36,5 +36,6 @@
 - `[2018 - 2020]` Developer for Czech Minecraft server **[Craftmania.cz](https://craftmania.cz/)**
 - `[2020]` Developer for Czech Minecraft server **[Trenend.eu](https://trenend.eu/)**
 - `[2020 - 2021]` Developer for Czech Minecraft server **[Survival-Games.cz](https://survival-games.cz/)**
-- `[2021 - present]` Developer and mentor for organization **[Nvias](https://nvias.org/)**
-- `[2022 - present]` Owner of Czech Minecraft server **[Rajce.pro](https://rajce.pro/)**
+- `[2021 - 2024]` Developer and mentor for organization **[Nvias](https://nvias.org/)**
+- `[2022 - 2024]` Owner of Czech Minecraft server **[Rajce.pro](https://rajce.pro/)**
+- `[2024 - present]` Head of Network Infrastructure **[Gamerhost.pro](https://gamerhost.pro/)**
