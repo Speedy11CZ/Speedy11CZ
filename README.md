@@ -38,4 +38,4 @@
 - `[2020 - 2021]` Developer for Czech Minecraft server **[Survival-Games.cz](https://survival-games.cz/)**
 - `[2021 - 2024]` Developer and mentor for organization **[Nvias](https://nvias.org/)**
 - `[2022 - 2024]` Owner of Czech Minecraft server **[Rajce.pro](https://rajce.pro/)**
-- `[2024 - present]` Head of Network Infrastructure **[Gamerhost.pro](https://gamerhost.pro/)**
+- `[2024 - 2025]` Head of Network Infrastructure **[Gamerhost.pro](https://gamerhost.pro/)**
